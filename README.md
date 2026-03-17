@@ -103,6 +103,8 @@ else:
 <img width="394" height="630" alt="image" src="https://github.com/user-attachments/assets/41bf1666-bc14-4de4-b26d-3c31b05bb3e8" />
 
 ### VERIFICATION
+<img width="807" height="1280" alt="image" src="https://github.com/user-attachments/assets/2e78bbf7-0984-4339-8262-d1b97a48f1fd" />
+<img width="1599" height="1136" alt="image" src="https://github.com/user-attachments/assets/5a1b93e5-f137-49ee-9b66-22dba29667fe" />
 
 ### RESULT
 Thus linear block code operation for the given input is successfully verified.`
